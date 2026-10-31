@@ -5,7 +5,6 @@ SCP2053 (10x 3' scRNA-seq, CCl4 and high-fat diet mouse models).
 
 Steps: QC plots, normalization, 2,000 variable genes, PCA, clustering (30 clusters),
 UMAP, macrophage marker plots (Cd14, Cd68, Fcgr3).
-No cell filtering or cell-type annotation was done.
 
 Data: download matrix.mtx.gz, barcodes.tsv.gz and features.tsv.gz from
 https://singlecell.broadinstitute.org/single_cell/study/SCP2053 and place them in
